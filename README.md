@@ -61,7 +61,7 @@ For example, set mqtt tcp port to 1883
 
 #### EMQ Loaded Plugins Configuration
 
-| Oprtions                 | Default            | Description                           |
+| Options                  | Default            | Description                           |
 | ------------------------ | ------------------ | ------------------------------------- |
 | EMQ_LOADED_PLUGINS       | see content below  | default plugins emq loaded            |
 
